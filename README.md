@@ -42,5 +42,4 @@ Welcome to the space where magic happens:
 ### [Bmap.cash 4.20.3](http://bitcoinmap.cash)
 
 ## ALL APPS ARE OPEN SOURCE
-### SOURCE CODE:
-[Code All The Thingz](https://github.com/therealbitcoinclub)
+### [Code All The Thingz](https://github.com/therealbitcoinclub)
