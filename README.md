@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-## Welcome to the space where magic happens:
+Welcome to the space where magic happens:
 
 ![OCTOCAT](<https://user-images.githubusercontent.com/30203863/71215319-517d2a80-22af-11ea-9ca8-206a2162c1cb.png> "OCTOCAT")
 
@@ -9,7 +9,7 @@
 ### Android APK 4.20.11
 
 <a href="https://github.com/theRealBitcoinClub/flutter_coinector/releases/download/public/app-release.apk" title="Android APK Download">
-  <img style="imatsch" alt="Android APK Download"
+  <img class="imatsch" alt="Android APK Download"
        title="Android APK Download"
        src="https://github.com/theRealBitcoinClub/therealbitcoinclub.github.io/raw/6460d5061b098532b4f81751c0a039b7a6926708/android-apk-download.png"
   />
