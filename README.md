@@ -35,11 +35,11 @@ Welcome to the space where magic happens:
 
 ## Webify all the thingz
 
-### [Web portrait 4.20.3](http://coinector.app) 
+### [Web App](http://coinector.app) (portrait)
 
-### [Desktop / Tablet horizontal 4.20.3](http://bmap.app)
+### [Desktop / Tablet](http://bmap.app) (horizontal)
 
-### [Bmap.cash 4.20.3](http://bitcoinmap.cash)
+### [bmap.cash](http://bitcoinmap.cash) (both)
 
 ## ALL APPS ARE OPEN SOURCE
 ### [Code All The Thingz](https://github.com/therealbitcoinclub)
