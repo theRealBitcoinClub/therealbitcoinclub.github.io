@@ -4,6 +4,10 @@ Welcome to the space where magic happens:
 
 ![OCTOCAT](<https://user-images.githubusercontent.com/30203863/71215319-517d2a80-22af-11ea-9ca8-206a2162c1cb.png> "OCTOCAT")
 
+### [OPEN SOURCE ALL THE THINGZ ](https://github.com/therealbitcoinclub)
+
+All your base are belong to bitcoin...
+
 ### Build Status: Alpha, Beta, Live
 A[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/62337b5a854b726637a51e5c/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/62337b5a854b726637a51e5c/latest_build)
 
@@ -47,7 +51,3 @@ L[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d
 ### [Desktop / Tablet](http://bmap.app) (horizontal)
 
 ### [bmap.cash](http://bitcoinmap.cash) (both)
-
-### [OPEN SOURCE ALL THE THINGZ ](https://github.com/therealbitcoinclub)
-
-All your base are belong to bitcoin...
