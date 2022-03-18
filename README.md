@@ -33,9 +33,9 @@ Welcome to the space where magic happens:
   />
 </a>
 
-### Web portrait 4.20.3
+## Webify all the thingz
 
-[Coinector](http://coinector.app) 
+### Web portrait 4.20.3 [Coinector](http://coinector.app) 
 
 ### Desktop / Tablet horizontal 4.20.3
 
@@ -45,6 +45,6 @@ Welcome to the space where magic happens:
 
 [Bitcoin Map](http://bitcoinmap.cash)
 
-# ALL APPS ARE OPEN SOURCE
-## SOURCE CODE:
-https://github.com/therealbitcoinclub
+## ALL APPS ARE OPEN SOURCE
+### SOURCE CODE:
+[Code All The Thingz](https://github.com/therealbitcoinclub)
