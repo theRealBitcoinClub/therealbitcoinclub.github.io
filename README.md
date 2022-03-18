@@ -6,7 +6,7 @@
 
 ## Download all the thingz
 
-### Android APK
+### Android APK 4.20.11
 
 <a href="https://github.com/theRealBitcoinClub/flutter_coinector/releases/download/public/app-release.apk" title="Android APK Download">
   <img alt="Android APK Download"
@@ -15,7 +15,7 @@
   />
 </a>
 
-### Google Play
+### Google Play 4.20.11
 
 <a href="https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector" title="Google Play Download">
   <img alt="Google Play Download"
@@ -24,21 +24,26 @@
   />
 </a>
 
-### Local Bitcoin Map
+### IPhone 4.20.3
 
-[Local Bitcoin Merchants Map](https://play.google.com/store/apps/details?id=club.therealbitcoin.bchmap)
+<a href="http://coinector.app" title="IPhone App">
+  <img alt="IPhone App"
+       title="IPhone App"
+       src="https://github.com/theRealBitcoinClub/therealbitcoinclub.github.io/raw/master/app-download-iphone.png"
+  />
+</a>
 
-### Bmap.cash
-
-[Bitcoin Map](http://bitcoinmap.cash)
-
-### Phone portrait
+### Web portrait 4.20.3
 
 [Coinector](http://coinector.app) 
 
-### Desktop / Tablet horizontal
+### Desktop / Tablet horizontal 4.20.3
 
 [BMAP.APP](http://bmap.app)
+
+### Bmap.cash 4.20.3
+
+[Bitcoin Map](http://bitcoinmap.cash)
 
 # ALL APPS ARE OPEN SOURCE
 ## SOURCE CODE:
