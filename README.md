@@ -9,7 +9,7 @@
 ### Android APK 4.20.11
 
 <a href="https://github.com/theRealBitcoinClub/flutter_coinector/releases/download/public/app-release.apk" title="Android APK Download">
-  <img alt="Android APK Download"
+  <img style="imatsch" alt="Android APK Download"
        title="Android APK Download"
        src="https://github.com/theRealBitcoinClub/therealbitcoinclub.github.io/raw/6460d5061b098532b4f81751c0a039b7a6926708/android-apk-download.png"
   />
