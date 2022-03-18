@@ -4,6 +4,17 @@ Welcome to the space where magic happens:
 
 ![OCTOCAT](<https://user-images.githubusercontent.com/30203863/71215319-517d2a80-22af-11ea-9ca8-206a2162c1cb.png> "OCTOCAT")
 
+Alpha Build Status
+[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/62337b5a854b726637a51e5c/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/62337b5a854b726637a51e5c/latest_build)
+
+Beta Build Status
+
+[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/623370b5a41ae2b8799136d5/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/623370b5a41ae2b8799136d5/latest_build)
+
+Web Build Status
+
+[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/61b1eda95f52b59508c82d30/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/61b1eda95f52b59508c82d30/latest_build)
+
 ## Downloadify all the Bitcoin Map Mobile Apps
 
 ### Android APK 4.20.11
