@@ -4,7 +4,7 @@ Welcome to the space where magic happens:
 
 ![OCTOCAT](<https://user-images.githubusercontent.com/30203863/71215319-517d2a80-22af-11ea-9ca8-206a2162c1cb.png> "OCTOCAT")
 
-## Download all the thingz
+## Downloadify all the Bitcoin Map Mobile Apps
 
 ### Android APK 4.20.11
 
@@ -33,7 +33,7 @@ Welcome to the space where magic happens:
   />
 </a>
 
-## Webify all the thingz
+## Webify all the Bitcoin Map
 
 ### [Web App](http://coinector.app) (portrait)
 
