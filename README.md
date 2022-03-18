@@ -41,5 +41,5 @@ Welcome to the space where magic happens:
 
 ### [bmap.cash](http://bitcoinmap.cash) (both)
 
-## ALL APPS ARE OPEN SOURCE
+## OPEN SOURCE ALL THE THINGZ
 ### [Code All The Thingz](https://github.com/therealbitcoinclub)
