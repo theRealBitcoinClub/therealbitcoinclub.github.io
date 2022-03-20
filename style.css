@@ -3,7 +3,7 @@ body {
     background-color:#478558;
 }
 
-h1 {
+.markdown-body h1 {
     font-size:smaller;
 }
 
