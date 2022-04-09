@@ -17,7 +17,7 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
 
 ## Downloadify all the Bitcoin Map Mobile Apps
 
-<img style="border-radius:20px" src="/preview-bitcoin-map.jpeg" title="Preview Bitcoin Map" alt="Preview Bmap" />
+<img style="border-radius:20px" src="/preview-bitcoin-map.png" title="Preview Bitcoin Map" alt="Preview Bmap" />
 
 ### Android APK 4.20.11
 
