@@ -19,16 +19,16 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
 
 <img style="border-radius:20px" src="/preview-bitcoin-map.png" title="Preview Bitcoin Map" alt="Preview Bmap" />
 
-### Android APK 4.20.11
+### Android APK 4.20.51
 
-<a target="_blank" href="https://github.com/theRealBitcoinClub/flutter_coinector/releases/download/public/app-release.apk" title="Android APK Download">
+<a target="_blank" href="https://api.codemagic.io/artifacts/f8018b81-a979-4fb8-9e53-e2c7b42134b6/0a8f1754-6d02-4469-9c50-324e03edceee/app-release-universal.apk" title="Android APK Download">
   <img style="border-radius:20px" alt="Android APK Download"
        title="Android APK Download"
        src="https://github.com/theRealBitcoinClub/therealbitcoinclub.github.io/raw/6460d5061b098532b4f81751c0a039b7a6926708/android-apk-download.png"
   />
 </a>
 
-### Google Play 4.20.11
+### Google Play 4.20.51
 
 <a target="_blank" href="https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector" title="Google Play Download">
   <img style="border-radius:20px" alt="Google Play Download"
@@ -37,7 +37,7 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
   />
 </a>
 
-### IPhone 4.20.3
+### IPhone 4.20.51
 
 <a href="http://coinector.app" target="_blank" title="IPhone App">
   <img style="border-radius:20px" alt="IPhone App"
