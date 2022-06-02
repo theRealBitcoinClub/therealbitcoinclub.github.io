@@ -19,7 +19,7 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
 
 <img style="border-radius:20px" src="/preview-bitcoin-map.png" title="Preview Bitcoin Map" alt="Preview Bmap" />
 
-### Android APK 4.20.71
+### Android APK 4.20.77
 
 <a target="_blank" href="https://github.com/theRealBitcoinClub/flutter_coinector/releases/tag/public" title="Android APK Download">
   <img style="border-radius:20px" alt="Android APK Download"
@@ -28,7 +28,7 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
   />
 </a>
 
-### Google Play 4.20.55
+### Google Play 4.20.77
 
 <a target="_blank" href="https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector" title="Google Play Download">
   <img style="border-radius:20px" alt="Google Play Download"
