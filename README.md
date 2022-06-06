@@ -19,7 +19,7 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
 
 <img style="border-radius:20px" src="/preview-bitcoin-map.png" title="Preview Bitcoin Map" alt="Preview Bmap" />
 
-### Android APK 4.20.77
+### Android APK 4.20.82
 
 <a target="_blank" href="https://github.com/theRealBitcoinClub/flutter_coinector/releases/tag/public" title="Android APK Download">
   <img style="border-radius:20px" alt="Android APK Download"
@@ -28,7 +28,7 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
   />
 </a>
 
-### Google Play 4.20.77
+### Google Play 4.20.82
 
 <a target="_blank" href="https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector" title="Google Play Download">
   <img style="border-radius:20px" alt="Google Play Download"
@@ -37,7 +37,7 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
   />
 </a>
 
-### IPhone (use the web version as the native app is outdated)
+### IPhone (use the web v82 version as the native app is outdated)
 
 <a href="http://coinector.app" target="_blank" title="IPhone App">
   <img style="border-radius:20px" alt="IPhone App"
@@ -48,8 +48,8 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
 
 ## Webify all the Bitcoin Map
 
-### [Web App](http://coinector.app) (portrait)
+### [Web App v82](http://coinector.app) (portrait)
 
-### [Desktop / Tablet](http://bmap.app) (horizontal)
+### [Desktop / Tablet v82](http://bmap.app) (horizontal)
 
-### [bmap.cash](http://bitcoinmap.cash) (both)
+### [bmap.cash v82](http://bitcoinmap.cash) (both)
