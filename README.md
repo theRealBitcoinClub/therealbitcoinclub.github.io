@@ -9,8 +9,6 @@ Welcome to the space where magic happens:
 All your base are belong to bitcoin...
 
 ### ~~~ Build Status ~~~
-Alpha~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/62337b5a854b726637a51e5c/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/62337b5a854b726637a51e5c/latest_build)
-
 Beta~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/623370b5a41ae2b8799136d5/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/623370b5a41ae2b8799136d5/latest_build)
 
 Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/61b1eda95f52b59508c82d30/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/61b1eda95f52b59508c82d30/latest_build)
@@ -28,18 +26,9 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
   />
 </a>
 
-### Google Play 4.20.82
-
-<a target="_blank" href="https://play.google.com/store/apps/details?id=cash.bitcoinmap.coinector" title="Google Play Download">
-  <img style="border-radius:20px" alt="Google Play Download"
-       title="Google Play Download"
-       src="https://github.com/theRealBitcoinClub/therealbitcoinclub.github.io/raw/master/app-download-playstore.png"
-  />
-</a>
-
 ### IPhone (use the web v82 version as the native app is outdated)
 
-<a href="http://coinector.app" target="_blank" title="IPhone App">
+<a href="http://coinector.web.app" target="_blank" title="IPhone App">
   <img style="border-radius:20px" alt="IPhone App"
        title="IPhone App"
        src="https://github.com/theRealBitcoinClub/therealbitcoinclub.github.io/raw/master/app-download-iphone.png"
@@ -48,8 +37,8 @@ Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508
 
 ## Webify all the Bitcoin Map
 
-### [Web App v82](http://coinector.app) (portrait)
+### [Web App v82](http://coinector.web.app) (portrait)
 
 ### [Desktop / Tablet v82](http://bmap.app) (horizontal)
 
-### [bmap.cash v82](http://bitcoinmap.cash) (both)
+### [bitcoinmap.cash v82](http://bitcoinmap.cash) (classic)
