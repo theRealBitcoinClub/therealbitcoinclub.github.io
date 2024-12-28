@@ -11,15 +11,13 @@ All your base are belong to bitcoin...
 ### ~~~ Build Status ~~~
 Beta~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/623370b5a41ae2b8799136d5/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/623370b5a41ae2b8799136d5/latest_build)
 
-Live~[![Codemagic build status](https://api.codemagic.io/apps/61b1eda95f52b59508c82d31/61b1eda95f52b59508c82d30/status_badge.svg)](https://codemagic.io/apps/61b1eda95f52b59508c82d31/61b1eda95f52b59508c82d30/latest_build)
-
 ## Downloadify all the Bitcoin Map Mobile Apps
 
 <img style="border-radius:20px" src="/preview-bitcoin-map.png" title="Preview Bitcoin Map" alt="Preview Bmap" />
 
 ### Android APK 4.20.82
 
-<a target="_blank" href="https://github.com/theRealBitcoinClub/flutter_coinector/releases/tag/public" title="Android APK Download">
+<a target="_blank" href="https://bmapp.app/android" title="Android APK Download">
   <img style="border-radius:20px" alt="Android APK Download"
        title="Android APK Download"
        src="https://github.com/theRealBitcoinClub/therealbitcoinclub.github.io/raw/6460d5061b098532b4f81751c0a039b7a6926708/android-apk-download.png"
